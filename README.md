@@ -4,7 +4,7 @@ Tohle je překlad komunitní módu pro HOI4 "Pride and Fall: The Last Days of Po
 
 Tohle je spíše osobní projekt, takže to bude trvat dobrou dobu, než to dokončím (pokud se tak vůbec stane).
 
-POZNÁMKA: S překládáním zatím počkám, až vyjde nový update PaF pro kompatibilitu s 1.17.x
+POZNÁMKA: ~~S překládáním zatím počkám, až vyjde nový update PaF pro kompatibilitu s 1.17.x~~ Konečně vydali 0.99, tak už na tom konečně nějak "pracuju"
 
 ## Jak se s tím hraje?
 
