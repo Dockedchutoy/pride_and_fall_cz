@@ -22,6 +22,17 @@ Link na Češtinu komunity Paradox CZ/SK: https://steamcommunity.com/sharedfiles
 
 Nebojte se klidně udělat pull request, já se na to podívám a kdyžtak to dokonce i přidám. Akorát se nezapomeňte ujistit, že nepřekládáte něco už přeloženýho. To by asi bolelo.
 
+## Work in Progress
+
+Soubory, které jsou alespoň z části přeložené:
+* Načítací typy
+* Achievementy
+* Názvy kontinentů
+* Názvy zemí
+* Frakce
+* Sbohem světe (Konec)
+* Bratrstvo Uhlí
+
 # Licence
 
 Tento mód je převážně postavený na českém překladu HOI4 od Crafter, Phantomiux a dalších z komunity Paradox CZ/SK, a tento mód tedy spadá pod licenci CC BY-NC-SA 4.0 (viz LICENSE.md). Více zde: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs
